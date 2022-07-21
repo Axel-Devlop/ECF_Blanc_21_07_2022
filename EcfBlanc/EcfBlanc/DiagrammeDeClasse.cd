@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="EcfBlanc.JobSeeker">
+    <Position X="6.25" Y="1.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAQBAAAAAQAAAAAAAAAAQAAAAAAIACAAAAgA=</HashCode>
+      <FileName>JobSeeker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EcfBlanc.JobFinder">
+    <Position X="10.5" Y="1.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAAAIAAAAAAAAAAAABAEAAA=</HashCode>
+      <FileName>JobFinder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="EcfBlanc.trainingLevel">
+    <Position X="2.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAIAAAhAAAAAAAAAAAAAAAABCAAAAAAAAAAAAQA=</HashCode>
+      <FileName>trainingLevel.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
