@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EcfBlanc", "EcfBlanc\EcfBla
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestEcf", "TestEcf\TestEcf.csproj", "{19EF92C1-F055-43DE-9A89-B96EA0C2D0A2}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InputValidationLib", "..\PremiersExercicesWinFormMieux\GoodInputValidation\InputValidationLib\InputValidationLib.csproj", "{5CD11D43-BD20-408A-AA02-AC0D2E4004AD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InputValidationLib", "..\..\CDA\COURS\ApplicationDesktop\PremiersExercicesWinFormMieux\GoodInputValidation\InputValidationLib\InputValidationLib.csproj", "{0B4CA442-00D7-4E6F-B195-B4E905D379D5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{19EF92C1-F055-43DE-9A89-B96EA0C2D0A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19EF92C1-F055-43DE-9A89-B96EA0C2D0A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19EF92C1-F055-43DE-9A89-B96EA0C2D0A2}.Release|Any CPU.Build.0 = Release|Any CPU
-		{5CD11D43-BD20-408A-AA02-AC0D2E4004AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5CD11D43-BD20-408A-AA02-AC0D2E4004AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5CD11D43-BD20-408A-AA02-AC0D2E4004AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5CD11D43-BD20-408A-AA02-AC0D2E4004AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B4CA442-00D7-4E6F-B195-B4E905D379D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B4CA442-00D7-4E6F-B195-B4E905D379D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B4CA442-00D7-4E6F-B195-B4E905D379D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B4CA442-00D7-4E6F-B195-B4E905D379D5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

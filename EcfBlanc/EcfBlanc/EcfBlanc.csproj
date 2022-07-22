@@ -9,7 +9,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\PremiersExercicesWinFormMieux\GoodInputValidation\InputValidationLib\InputValidationLib.csproj" />
+    <ProjectReference Include="..\..\..\CDA\COURS\ApplicationDesktop\PremiersExercicesWinFormMieux\GoodInputValidation\InputValidationLib\InputValidationLib.csproj" />
   </ItemGroup>
 
 </Project>
